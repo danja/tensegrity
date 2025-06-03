@@ -16,7 +16,7 @@ I've given myself a deadline of **2025-06-21** to get this bunch of things to so
 * [TIA Intelligence Agency](https://github.com/danja/tia) - templates for autonomous agents 
 * [Squirt](https://github.com/danja/squirt) - multi-purpose browser client
 * [Atuin](https://github.com/danja/atuin) - RDF/SPARQL editor/client
-* [Trestle](https://github.com/danja/trestle) - outliner
+* [Trestle](https://github.com/danja/trestle) - outliner, project management starter
 * [Postcraft](https://github.com/danja/postcraft) - markdown doc manager/site builder (Transmissions app #1)
 * ...
 
