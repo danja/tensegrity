@@ -6,12 +6,16 @@ This is an open-ended suite of tools I've been building that are intended to wor
 
 ![Rickety structure supporting obscure objects](suite.png)
 
-I've given myself a deadline of **2025-06-21** to get this bunch of things to some kind of minimum viable pseudo-products. If I'm happy with what I've got to show at that point, I'll be doing announcements (haranguing the lists, socials and maybe even ex-girlfriends) on **2025-07-03**. I'm more confident than usual that I'll have at least *something* to show, I have got the lion's share of the hard parts done already. We'll see.
+I've given myself a deadline of **2025-06-21** to get this bunch of things to some kind of minimum viable pseudo-products. 
+
+PS. Got close to what I intended. Have been doing much less new stuff since, more consolidation.
+
+If I'm happy with what I've got to show at that point, [pretty much] I'll be doing announcements (~~haranguing the lists, socials and maybe even ex-girlfriends~~ telling one or two people about it) on **2025-07-03**. I'm more confident than usual that I'll have at least *something* to show, I have got the lion's share of the hard parts done already. We'll see.
 
 ### System Layer
 * [TBox](https://github.com/danja/tbox) - a container for experimenting with all of this
 * [Transmissions](https://github.com/danja/transmissions) - pipeline composer
-* [Semem](https://github.com/danja/semem) - semantic memory/knowledgebase interface 
+* [Semem](https://github.com/danja/semem) - semantic memory/knowledgegraph interface 
 * ...
 
 ### Application Layer
